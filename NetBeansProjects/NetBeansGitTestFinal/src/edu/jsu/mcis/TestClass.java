@@ -17,6 +17,6 @@ return "Hello, World!";
     
     
     public static String testMethod2() {
-return "Hello there, world!";
+return "Hello there my, world!";
 }
 }
